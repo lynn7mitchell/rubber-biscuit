@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,sCAAsC;AACtC,GAAI;EACF,KAAK,EAAE,IAAI",
+"sources": ["../sass/input.scss"],
+"names": [],
+"file": "style.css"
+}
