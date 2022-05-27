@@ -1,6 +1,6 @@
-const rubberBuiscuitFullSong = new Audio("../music/rubber-biscuit.mp3");
-const first = new Audio("../music/first.wav");
-const second = new Audio("../music/second.wav");
+const rubberBuiscuitFullSong = new Audio("/music/rubber-biscuit.mp3");
+const first = new Audio("/music/first.wav");
+const second = new Audio("/music/second.wav");
 const sounds = [first, second];
 
 let counter = 0;
